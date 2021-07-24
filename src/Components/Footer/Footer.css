@@ -1,0 +1,55 @@
+footer {
+    height: 30vh;
+    background: #292C33;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-top: 6rem;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-content h2 {
+    color: #fff;
+    font-size: clamp(14px, 3.5vw, 22px);
+    font-weight: 500;
+    letter-spacing: 0.2px;
+    margin-bottom: 0.25rem;
+}
+
+.footer-content p {
+    color: #fff;
+    font-size: clamp(12px, 3.5vw, 15px);
+    font-weight: 100;
+    letter-spacing: 0.5px;
+}
+
+
+.footer-socials {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    color: #fff;
+}
+
+.social-icon {
+    margin: 0 0.5rem;
+    font-size: 1.3rem;
+}
+
+.social-icon:hover {
+    transition: 0.3s ease-in-out;
+    color: #4284FF;
+    cursor: pointer;
+}
+
+a,
+a:visited {
+    color: #fff;
+}
