@@ -1,11 +1,12 @@
 .form-section {
     background: #F2F2F2;
-    height: 80vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     text-align: center;
     color: #fff;
+    padding: 4rem 0;
+    /* padding-top: 4rem; */
 }
 
 .form-section h3 {
@@ -39,6 +40,7 @@
 .form-container {
     background: #4284FF;
     width: 640px;
+    height: fit-content;
 }
 
 form {
@@ -86,7 +88,6 @@ input::placeholder {
 
 @media screen and (max-width: 700px) {
     .form-container {
-        max-width: 480px;
         width: 90%;
     }
 }
