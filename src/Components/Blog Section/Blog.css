@@ -2,6 +2,7 @@
     height: 90vh;
     background: #6E52C7;
     height: fit-content;
+    padding-top: 4rem;
 }
 
 .blog-container {
@@ -100,7 +101,8 @@
 .blog-link,
 .blog-link a,
 .blog-link a:visited {
-    margin-top: -7rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
     color: #fff;
     font-size: 18px;
     letter-spacing: 1px;
