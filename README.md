@@ -2,4 +2,4 @@ A website I made using react, hooks, conditional rendering, react router, and ev
 
 The design was inspired from a page on nicepage.com. 
 
-working demo: https://happy-agnesi-9e4632.netlify.app/
+working demo: https://quizzical-dubinsky-da870e.netlify.app/
