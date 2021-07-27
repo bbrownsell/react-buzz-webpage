@@ -23,12 +23,14 @@ nav {
     text-shadow: 1px 1px 1px #000;
     text-decoration: none;
     color: #fff;
+    z-index: 999;
 }
 
 .menu-bars {
     font-size: 28px;
     cursor: pointer;
     color: #fff;
+    z-index: 999;
 }
 
 .nav-menu {
