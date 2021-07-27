@@ -39,13 +39,14 @@
     margin: 0 auto;
     /* padding: 3rem 3rem 0 3rem; */
     width: 90%;
-    height: calc(100vh - 300px);
-    padding: 2rem 0;
+    /* height: calc(100vh - 300px); */
+    padding: 4rem 0;
 }
 
 .card {
     display: inline-block;
-    height: 30rem;
+    /* height: 30rem; */
+    height: 500px;
     width: 20rem;
     border-radius: 3px;
     text-align: center;
